@@ -1,4 +1,4 @@
-# Chain of Responsability
+# Chain of Responsibility
 
 ![Pattern](https://img.shields.io/badge/Behavioral-Patterns-green.svg)
 ![Languages](https://img.shields.io/badge/Language-swift-green.svg)
